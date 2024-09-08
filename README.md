@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Greeshmitha2702
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning programming language
+- 🌱 I’m currently learning programming languages
+- I want to improve communication and leadership skills
   
 
 <!---
