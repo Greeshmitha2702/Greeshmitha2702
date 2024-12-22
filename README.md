@@ -1,13 +1,15 @@
 <h2 align="center">Lakshmi Greeshmitha Bingumalla✨</h2>
-<h3 align="center">🚀Crafting code, Building dreams Aspiring Software developer on a journey to Innovate</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=greeshmitha2702" alt="greeshmitha2702" /></a> </p>
+<h3 align="center">🚀Crafting code, Building dreams | Aspiring Software developer on a journey to Innovate</h3>
+<hr>
 
 - 🌱 I’m currently building **foundation in Programming fundamentals, DSA**
 
 - 📫 How to reach me **lbinguma2@gitam.in**
 
 - ⚡ Fun fact **Debugging: The art of fixing a bug you didn’t know you created.**
+<hr>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=greeshmitha2702" alt="greeshmitha2702" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
