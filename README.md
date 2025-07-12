@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently building **foundation in Programming fundamentals, DSA**
 
-- 📫 How to reach me **lbinguma2@gitam.in**
+- 📫 How to reach me **bingumallagreeshmitha@gmail.com**
 
 - ⚡ Fun fact **Debugging: The art of fixing a bug you didn’t know you created.**
 <hr>
