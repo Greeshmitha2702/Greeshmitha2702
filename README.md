@@ -16,17 +16,13 @@ Coffee Level: Sufficient ☕
 
 🌟 GSSoC 2026 Ambassador & Contributor
 
-🔍 Interested in Backend Engineering, System Design & AI
+🔍 Interested in Backend Engineering
 
 🎯 Objective: Create technology that solves meaningful problems
 
 ## Current Tasks
 
 [████████░░] Full Stack Development
-
-[███████░░░] System Design
-
-[██████░░░░] AI Engineering
 
 [█████████░] Open Source Contributions
 
